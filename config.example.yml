@@ -10,14 +10,14 @@
 #   python -m generator.main --demo
 
 # Your GitHub username (required)
-username: galaxy-dev
+username: diegofsiilva
 
 # Profile information displayed in the galaxy header
 profile:
   name: "Nyx Orion"
-  tagline: "Full Stack Developer & Open Source Explorer"
-  company: "Stellar Labs"
-  location: "San Francisco, CA"
+  tagline: "Full Stack Developer"
+  company: "Inteli"
+  location: "São Paulo, SP"
   bio: |
     Building tools that make developers' lives easier.
     Passionate about distributed systems, developer experience, and the open-source ecosystem.
@@ -25,9 +25,8 @@ profile:
 
 # Social links displayed at the bottom of the profile
 social:
-  email: "nyx@stellarlabs.dev"
-  linkedin: "nyxorion"
-  website: "https://nyxorion.dev"
+  email: "dfigueiredosilva93@gmail.com"
+  linkedin: "https://www.linkedin.com/in/diegofigueiredos/"
 
 # Galaxy arms represent your core focus areas
 # Each arm spirals out from the center with its own color and tech items
@@ -36,12 +35,13 @@ galaxy_arms:
   - name: "Frontend"
     color: "dendrite_violet"
     items:
-      - "TypeScript"
       - "React"
       - "CSS"
+      - "HTML"
   - name: "Backend"
     color: "synapse_cyan"
     items:
+      - "Java"
       - "Python"
       - "Node.js"
       - "PostgreSQL"
@@ -49,8 +49,6 @@ galaxy_arms:
     color: "axon_amber"
     items:
       - "Docker"
-      - "GitHub Actions"
-      - "AWS"
 
 # Featured projects shown as constellation stars
 # Each project needs:
